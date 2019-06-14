@@ -57,7 +57,7 @@ get_url2=$(curl -s http://zlucifer.com/api/hackbae.php?request=phoenix)
 cek='curl -s '$get_url2 # check status
 zlucifer="user-agent: zlucifer"
 clear
-echo Mohon tunggu..
+echo Mohon tunggu...
 load
 clear
 intro

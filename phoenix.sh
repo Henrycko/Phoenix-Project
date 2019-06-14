@@ -1,3 +1,5 @@
+#!/bin/bash
+
 intro(){
 echo "Selamat datang kak, Siapa nama kaka?" #tulisan keluar
 read nick #membaca yang ditulis
